@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Grados</string>
+    <string name="celsius">Celsius</string>
+    <string name="farenheit">farenheit</string>
+    <string name="kelvin">kelvin</string>
+    <string name="seleccionar_item">seleccion</string>
+    <string name="required_field">falta este campo por llenar</string>
 </resources>
